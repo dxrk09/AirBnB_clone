@@ -31,3 +31,34 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 - Do operations on objects (count, compute stats, etc…)
 - Update attributes of an object
 - Destroy an object
+
+A command interpreter is like the air traffic controller for your computer. It takes your commands and tells the system what to do. Cool, right?
+
+## Getting Started:
+
+1. **Run Your Terminal:** Open that black box (or whatever color you prefer). It's your command cockpit.
+
+2. **Navigate:**
+   - `cd <directory>`: Move around.
+   - `ls`: List files.
+   - `pwd`: Show where you are.
+
+3. **Execute Commands:**
+   - Just type and hit Enter. Like magic.
+
+## Commands to Impress:
+
+- **`echo <message>`:** Make your terminal speak.
+- **`mkdir <folder-name>`:** Birth a new folder.
+- **`touch <file-name>`:** Create a file.
+
+## Power Moves:
+
+- **`cp <source> <destination>`:** Copy stuff.
+- **`mv <source> <destination>`:** Move stuff.
+- **`rm <file>`:** Delete stuff. Be careful.
+
+## Your Ace Commands:
+
+- **`history`:** See your command history.
+- **`!n`:** Repeat the nth
